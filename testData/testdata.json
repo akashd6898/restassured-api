@@ -1,0 +1,5 @@
+{
+  "username" : "ak",
+  "password" : "password@1234",
+  "author_endpoint" : "/api/v1/Authors"
+}
